@@ -10,6 +10,6 @@ public class App
     {
         Game game = new Game();
         
-        game.move();
+        game.startGame();
     }
 }
